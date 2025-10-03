@@ -2,6 +2,7 @@
 #define OBSERVABLE_HPP
 
 #include <functional>
+#include <vector>
 
 template <typename T> class Observable {
   public:
